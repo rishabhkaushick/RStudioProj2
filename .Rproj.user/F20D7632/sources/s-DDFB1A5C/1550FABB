@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631373508524.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "877300000",
+    "id" : "1550FABB",
+    "lastKnownWriteTime" : 1631374367,
+    "last_content_update" : 1631374367113,
+    "path" : "~/Data Science Courses/data-scientists-toolbox/First R Project/ProjectWithGitHub/RStudioProj2/BasicTest.R",
+    "project_path" : "BasicTest.R",
+    "properties" : {
+        "cursorPosition" : "0,32",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
